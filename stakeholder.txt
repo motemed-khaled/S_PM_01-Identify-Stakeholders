@@ -1,0 +1,8 @@
+identify project stakeholder for digital discount card project ==>
+
+1 - sponsor 
+2 - customer 
+3 - development team
+4 - suppliers 
+5 - CEO
+6 - partners (shops - restaurants - clinics ......)
